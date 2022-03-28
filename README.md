@@ -1,1 +1,2 @@
 # g
+# OI BLOOL AQUI É O ESQUELO OI BLOOL
