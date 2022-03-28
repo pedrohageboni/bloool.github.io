@@ -1,2 +1,1 @@
-# bloool.github.io
-g
+# g
